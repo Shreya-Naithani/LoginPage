@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "e32c",
+      "name": "shivali",
+      "email": "naithanishreya7409@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "b1a6",
+      "name": "kiran",
+      "email": "naithanishreya7409@gmail.com",
+      "pass": "12"
+    },
+    {
+      "id": "46c9",
+      "name": "me",
+      "email": "hi@gmail.com",
+      "pass": "1234"
+    },
+    {
+      "id": "cbe0",
+      "name": "Shreya Naithani",
+      "email": "naithanishreya7409@gmail.com",
+      "pass": "123490"
+    }
+  ]
+}
